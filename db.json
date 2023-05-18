@@ -1,17 +1,15 @@
-[
-  {    
-    "id": 1,
-    "name": "delectus",
-    "description": "delectus aut autem"
-  },
-  {
-    "id": 2,
-    "name": "numquam",
-    "description": "numquam repellendus a magnam"
-  },
-  {
-    "id": 3,
-    "name": "ipsam",
-    "description": "ipsam aperiam voluptates qui"
-  }
-]
+{    
+  "id": 1,
+  "name": "delectus",
+  "description": "delectus aut autem"
+},
+{
+  "id": 2,
+  "name": "numquam",
+  "description": "numquam repellendus a magnam"
+},
+{
+  "id": 3,
+  "name": "ipsam",
+  "description": "ipsam aperiam voluptates qui"
+}
